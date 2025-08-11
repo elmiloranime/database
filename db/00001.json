@@ -1,266 +1,259 @@
-{
-    "series": [
-        {
-            "id": "3x3eyes_ova1",
-            "type": "ova",
-            "years": "1991–1992",
-            "studio": "Toei Animation",
-            "episodes_total": 4,
-            "cover": "https://example.com/images/3x3eyes_ova1_cover.jpg",
-            "banner": "https://example.com/images/3x3eyes_ova1_banner_720x240.jpg",
-            "translations": {
-                "en": {
-                    "title": "3×3 Eyes",
-                    "synopsis": "Pai, the last Sanjiyan Unkara, meets Yakumo, turning him into her immortal Wu. Together they seek the Ningen no Zō to turn Pai human while facing demons and the feared Benares."
-                },
-                "es": {
-                    "title": "3×3 Ojos",
-                    "synopsis": "Pai, la última Sanjiyan Unkara, conoce a Yakumo, a quien convierte en su Wu inmortal. Juntos buscan la estatua Ningen no Zō para volver humana a Pai mientras se enfrentan a demonios y al temible Benares."
-                },
-                "ca": {
-                    "title": "3×3 Ulls",
-                    "synopsis": "Pai, l'última Sanjiyan Unkara, coneix en Yakumo, a qui converteix en el seu Wu immortal. Junts busquen l'estàtua Ningen no Zō per tornar humana a la Pai mentre s'enfronten a dimonis i al temible Benares."
-                },
-                "ja_kanji": {
-                    "title": "3×3EYES",
-                    "synopsis": "三只眼の最後の生き残りパイは、八雲と出会い、彼を不死身のウーにする。二人はパイを人間に戻すため、魔物や恐るべきベナレスと戦いながら、ニンゲンノゾウを探す。"
-                },
-                "ja_romaji": {
-                    "title": "3×3 Eyes",
-                    "synopsis": "San-jiyan no saigo no ikinokori Pai wa, Yakumo to deai, kare o fujimi no Wu ni suru. Futari wa Pai o ningen ni modosu tame, mamono ya osorubeki Benares to tatakai nagara, Ningen no Zō o sagasu."
-                }
-            },
-            "episodes": [
-                {
-                    "no": 1,
-                    "air_date": "1991-07-25",
-                    "duration_min": 30,
-                    "translations": {
-                        "en": {
-                            "title": "Transmigration",
-                            "synopsis": "Pai meets Yakumo; after an accident, she turns him into her Wu and begins the search for the Ningen no Zō."
-                        },
-                        "es": {
-                            "title": "Transmigración",
-                            "synopsis": "Pai conoce a Yakumo; tras un accidente, lo convierte en su Wu e inicia la búsqueda de la Ningen no Zō."
-                        },
-                        "ca": {
-                            "title": "Transmigració",
-                            "synopsis": "La Pai coneix en Yakumo; després d'un accident, el converteix en el seu Wu i inicia la recerca de la Ningen no Zō."
-                        },
-                        "ja_kanji": {
-                            "title": "転生の章",
-                            "synopsis": "パイは八雲と出会い、事故の後、彼をウーに変える。そしてニンゲンノゾウを探す旅を始める。"
-                        },
-                        "ja_romaji": {
-                            "title": "Tensei no shō",
-                            "synopsis": "Pai wa Yakumo to deai, jiko no ato, kare o Wu ni kaeru. Soshite Ningen no Zō o sagasu tabi o hajimeru."
-                        }
-                    },
-                    "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#3%C3%973_Eyes"
-                },
-                {
-                    "no": 2,
-                    "air_date": "1991-09-26",
-                    "duration_min": 30,
-                    "translations": {
-                        "en": {
-                            "title": "Yakumo",
-                            "synopsis": "Yakumo embraces his role as protector while they travel to Hong Kong facing new demonic threats."
-                        },
-                        "es": {
-                            "title": "Yakumo",
-                            "synopsis": "Yakumo asume su rol de protector mientras viajan a Hong Kong y enfrentan nuevas amenazas demoníacas."
-                        },
-                        "ca": {
-                            "title": "Yakumo",
-                            "synopsis": "En Yakumo assumeix el seu paper de protector mentre viatgen a Hong Kong i s'enfronten a noves amenaces demoníaques."
-                        },
-                        "ja_kanji": {
-                            "title": "八雲の章",
-                            "synopsis": "八雲は守護者としての役割を果たし、パイと共に香港へ向かい新たな魔物と対峙する。"
-                        },
-                        "ja_romaji": {
-                            "title": "Yakumo no shō",
-                            "synopsis": "Yakumo wa shugosha to shite no yakuwari o hatashi, Pai to tomo ni Honkon e mukai aratana mamono to taiji suru."
-                        }
-                    },
-                    "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#3%C3%973_Eyes"
-                },
-                {
-                    "no": 3,
-                    "air_date": "1992-01-23",
-                    "duration_min": 30,
-                    "translations": {
-                        "en": {
-                            "title": "Sacrifice",
-                            "synopsis": "A risky attempt with the statue triggers painful consequences and tests allies' loyalty."
-                        },
-                        "es": {
-                            "title": "Sacrificio",
-                            "synopsis": "Un intento arriesgado con la estatua desata consecuencias dolorosas y pone a prueba la lealtad de aliados."
-                        },
-                        "ca": {
-                            "title": "Sacrifici",
-                            "synopsis": "Un intent arriscat amb l'estàtua desferma conseqüències doloroses i posa a prova la lleialtat dels aliats."
-                        },
-                        "ja_kanji": {
-                            "title": "採生の章",
-                            "synopsis": "像を使った危険な試みが痛ましい結果を招き、仲間の忠誠心が試される。"
-                        },
-                        "ja_romaji": {
-                            "title": "To-sei no shō",
-                            "synopsis": "Zō o tsukatta kiken na kokoromi ga itamashii kekka o maneki, nakama no chūseishin ga tamesareru."
-                        }
-                    },
-                    "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#3%C3%973_Eyes"
-                },
-                {
-                    "no": 4,
-                    "air_date": "1992-03-19",
-                    "duration_min": 30,
-                    "translations": {
-                        "en": {
-                            "title": "Straying",
-                            "synopsis": "The confrontation with Benares forces Pai and Yakumo to rethink their bond and goal."
-                        },
-                        "es": {
-                            "title": "Desviación",
-                            "synopsis": "El enfrentamiento con Benares fuerza a Pai y Yakumo a replantear su vínculo y su objetivo."
-                        },
-                        "ca": {
-                            "title": "Desviació",
-                            "synopsis": "L'enfrontament amb en Benares obliga la Pai i en Yakumo a replantejar-se el seu vincle i objectiu."
-                        },
-                        "ja_kanji": {
-                            "title": "迷走の章",
-                            "synopsis": "ベナレスとの対決がパイと八雲に彼らの絆と目的を見直させる。"
-                        },
-                        "ja_romaji": {
-                            "title": "Meisō no shō",
-                            "synopsis": "Benares to no taiketsu ga Pai to Yakumo ni karera no kizuna to mokuteki o minaosaseru."
-                        }
-                    },
-                    "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#3%C3%973_Eyes"
-                }
-            ]
+[
+    {
+        "cover": "https://example.com/images/3x3eyes_ova1_cover.jpg",
+        "banner": "https://example.com/images/3x3eyes_ova1_banner_720x240.jpg",
+        "title": {
+            "ca": "3×3 Ulls",
+            "es": "3×3 Ojos",
+            "en": "3×3 Eyes",
+            "ja_kanji": "3×3EYES",
+            "ja_romaji": "3×3 Eyes"
         },
-        {
-            "id": "3x3eyes_ova2",
-            "type": "ova",
-            "years": "1995–1996",
-            "studio": "Studio Junio",
-            "episodes_total": 3,
-            "cover": "https://example.com/images/3x3eyes_ova2_cover.jpg",
-            "banner": "https://example.com/images/3x3eyes_ova2_banner_720x240.jpg",
-            "translations": {
-                "en": {
-                    "title": "3×3 Eyes: Legend of the Divine Demon",
-                    "synopsis": "Years later, Yakumo searches for Pai, now with amnesia, and they are drawn into a greater struggle tied to Kaiyanwang and powerful artifacts."
+        "type": "ova",
+        "seassons": [
+            {
+                "type": "ova",
+                "translations": {
+                    "ca": {
+                        "title": "3×3 Ulls",
+                        "synopsis": "Pai, l'última Sanjiyan Unkara, coneix en Yakumo, a qui converteix en el seu Wu immortal. Junts busquen l'estàtua Ningen no Zō per tornar humana a la Pai mentre s'enfronten a dimonis i al temible Benares."
+                    },
+                    "es": {
+                        "title": "3×3 Ojos",
+                        "synopsis": "Pai, la última Sanjiyan Unkara, conoce a Yakumo, a quien convierte en su Wu inmortal. Juntos buscan la estatua Ningen no Zō para volver humana a Pai mientras se enfrentan a demonios y al temible Benares."
+                    },
+                    "en": {
+                        "title": "3×3 Eyes",
+                        "synopsis": "Pai, the last Sanjiyan Unkara, meets Yakumo, turning him into her immortal Wu. Together they seek the Ningen no Zō to turn Pai human while facing demons and the feared Benares."
+                    },
+                    "ja_kanji": {
+                        "title": "3×3EYES",
+                        "synopsis": "三只眼の最後の生き残りパイは、八雲と出会い、彼を不死身のウーにする。二人はパイを人間に戻すため、魔物や恐るべきベナレスと戦いながら、ニンゲンノゾウを探す。"
+                    },
+                    "ja_romaji": {
+                        "title": "3×3 Eyes",
+                        "synopsis": "San-jiyan no saigo no ikinokori Pai wa, Yakumo to deai, kare o fujimi no Wu ni suru. Futari wa Pai o ningen ni modosu tame, mamono ya osorubeki Benares to tatakai nagara, Ningen no Zō o sagasu."
+                    }
                 },
-                "es": {
-                    "title": "3×3 Ojos: La Leyenda del Demonio Divino",
-                    "synopsis": "Años después, Yakumo busca a Pai, ahora con amnesia, y ambos se ven envueltos en una lucha mayor ligada a Kaiyanwang y a poderosos artefactos."
-                },
-                "ca": {
-                    "title": "3×3 Ulls: La Llegenda del Dimoni Diví",
-                    "synopsis": "Anys després, en Yakumo busca la Pai, ara amb amnèsia, i tots dos es veuen immersos en una lluita major lligada a Kaiyanwang i a poderosos artefactes."
-                },
-                "ja_kanji": {
-                    "title": "3×3EYES 聖魔伝説",
-                    "synopsis": "数年後、記憶を失ったパイを探す八雲は、カイヤンワンと強力な神器に関わる大きな戦いに巻き込まれる。"
-                },
-                "ja_romaji": {
-                    "title": "3×3 Eyes: Seima Densetsu",
-                    "synopsis": "Sū-nen-go, kioku o ushinatta Pai o sagasu Yakumo wa, Kaiyanwang to kyōryoku na shinki ni kakawaru ōkina tatakai ni makikomare."
-                }
+                "episodes": [
+                    {
+                        "no": 1,
+                        "air_date": "1991-07-25",
+                        "translations": {
+                            "en": {
+                                "title": "Transmigration",
+                                "synopsis": "Pai meets Yakumo; after an accident, she turns him into her Wu and begins the search for the Ningen no Zō."
+                            },
+                            "es": {
+                                "title": "Transmigración",
+                                "synopsis": "Pai conoce a Yakumo; tras un accidente, lo convierte en su Wu e inicia la búsqueda de la Ningen no Zō."
+                            },
+                            "ca": {
+                                "title": "Transmigració",
+                                "synopsis": "La Pai coneix en Yakumo; després d'un accident, el converteix en el seu Wu i inicia la recerca de la Ningen no Zō."
+                            },
+                            "ja_kanji": {
+                                "title": "転生の章",
+                                "synopsis": "パイは八雲と出会い、事故の後、彼をウーに変える。そしてニンゲンノゾウを探す旅を始める。"
+                            },
+                            "ja_romaji": {
+                                "title": "Tensei no shō",
+                                "synopsis": "Pai wa Yakumo to deai, jiko no ato, kare o Wu ni kaeru. Soshite Ningen no Zō o sagasu tabi o hajimeru."
+                            }
+                        },
+                        "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#3%C3%973_Eyes"
+                    },
+                    {
+                        "no": 2,
+                        "air_date": "1991-09-26",
+                        "translations": {
+                            "en": {
+                                "title": "Yakumo",
+                                "synopsis": "Yakumo embraces his role as protector while they travel to Hong Kong facing new demonic threats."
+                            },
+                            "es": {
+                                "title": "Yakumo",
+                                "synopsis": "Yakumo asume su rol de protector mientras viajan a Hong Kong y enfrentan nuevas amenazas demoníacas."
+                            },
+                            "ca": {
+                                "title": "Yakumo",
+                                "synopsis": "En Yakumo assumeix el seu paper de protector mentre viatgen a Hong Kong i s'enfronten a noves amenaces demoníaques."
+                            },
+                            "ja_kanji": {
+                                "title": "八雲の章",
+                                "synopsis": "八雲は守護者としての役割を果たし、パイと共に香港へ向かい新たな魔物と対峙する。"
+                            },
+                            "ja_romaji": {
+                                "title": "Yakumo no shō",
+                                "synopsis": "Yakumo wa shugosha to shite no yakuwari o hatashi, Pai to tomo ni Honkon e mukai aratana mamono to taiji suru."
+                            }
+                        },
+                        "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#3%C3%973_Eyes"
+                    },
+                    {
+                        "no": 3,
+                        "air_date": "1992-01-23",
+                        "translations": {
+                            "en": {
+                                "title": "Sacrifice",
+                                "synopsis": "A risky attempt with the statue triggers painful consequences and tests allies' loyalty."
+                            },
+                            "es": {
+                                "title": "Sacrificio",
+                                "synopsis": "Un intento arriesgado con la estatua desata consecuencias dolorosas y pone a prueba la lealtad de aliados."
+                            },
+                            "ca": {
+                                "title": "Sacrifici",
+                                "synopsis": "Un intent arriscat amb l'estàtua desferma conseqüències doloroses i posa a prova la lleialtat dels aliats."
+                            },
+                            "ja_kanji": {
+                                "title": "採生の章",
+                                "synopsis": "像を使った危険な試みが痛ましい結果を招き、仲間の忠誠心が試される。"
+                            },
+                            "ja_romaji": {
+                                "title": "To-sei no shō",
+                                "synopsis": "Zō o tsukatta kiken na kokoromi ga itamashii kekka o maneki, nakama no chūseishin ga tamesareru."
+                            }
+                        },
+                        "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#3%C3%973_Eyes"
+                    },
+                    {
+                        "no": 4,
+                        "air_date": "1992-03-19",
+                        "translations": {
+                            "en": {
+                                "title": "Straying",
+                                "synopsis": "The confrontation with Benares forces Pai and Yakumo to rethink their bond and goal."
+                            },
+                            "es": {
+                                "title": "Desviación",
+                                "synopsis": "El enfrentamiento con Benares fuerza a Pai y Yakumo a replantear su vínculo y su objetivo."
+                            },
+                            "ca": {
+                                "title": "Desviació",
+                                "synopsis": "L'enfrontament amb en Benares obliga la Pai i en Yakumo a replantejar-se el seu vincle i objectiu."
+                            },
+                            "ja_kanji": {
+                                "title": "迷走の章",
+                                "synopsis": "ベナレスとの対決がパイと八雲に彼らの絆と目的を見直させる。"
+                            },
+                            "ja_romaji": {
+                                "title": "Meisō no shō",
+                                "synopsis": "Benares to no taiketsu ga Pai to Yakumo ni karera no kizuna to mokuteki o minaosaseru."
+                            }
+                        },
+                        "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#3%C3%973_Eyes"
+                    }
+                ]
             },
-            "episodes": [
-                {
-                    "no": 1,
-                    "air_date": "1995-07-25",
-                    "duration_min": 50,
-                    "translations": {
-                        "en": {
-                            "title": "Descent",
-                            "synopsis": "Yakumo finally finds Pai without memories and gets caught in a dangerous conspiracy."
-                        },
-                        "es": {
-                            "title": "Descendencia",
-                            "synopsis": "Yakumo finalmente encuentra a Pai sin recuerdos y queda atrapado en una peligrosa conspiración."
-                        },
-                        "ca": {
-                            "title": "Descendència",
-                            "synopsis": "En Yakumo finalment troba la Pai sense records i queda atrapat en una perillosa conspiració."
-                        },
-                        "ja_kanji": {
-                            "title": "末裔の章",
-                            "synopsis": "八雲は記憶を失ったパイをついに見つけ、危険な陰謀に巻き込まれる。"
-                        },
-                        "ja_romaji": {
-                            "title": "Matsuei no shō",
-                            "synopsis": "Yakumo wa kioku o ushinatta Pai o tsuini mitsuke, kiken na inbō ni makikomare."
-                        }
+            {
+                "type": "ova",
+                "translations": {
+                    "en": {
+                        "title": "3×3 Eyes: Legend of the Divine Demon",
+                        "synopsis": "Years later, Yakumo searches for Pai, now with amnesia, and they are drawn into a greater struggle tied to Kaiyanwang and powerful artifacts."
                     },
-                    "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#Legend_of_the_Divine_Demon"
+                    "es": {
+                        "title": "3×3 Ojos: La Leyenda del Demonio Divino",
+                        "synopsis": "Años después, Yakumo busca a Pai, ahora con amnesia, y ambos se ven envueltos en una lucha mayor ligada a Kaiyanwang y a poderosos artefactos."
+                    },
+                    "ca": {
+                        "title": "3×3 Ulls: La Llegenda del Dimoni Diví",
+                        "synopsis": "Anys després, en Yakumo busca la Pai, ara amb amnèsia, i tots dos es veuen immersos en una lluita major lligada a Kaiyanwang i a poderosos artefactes."
+                    },
+                    "ja_kanji": {
+                        "title": "3×3EYES 聖魔伝説",
+                        "synopsis": "数年後、記憶を失ったパイを探す八雲は、カイヤンワンと強力な神器に関わる大きな戦いに巻き込まれる。"
+                    },
+                    "ja_romaji": {
+                        "title": "3×3 Eyes: Seima Densetsu",
+                        "synopsis": "Sū-nen-go, kioku o ushinatta Pai o sagasu Yakumo wa, Kaiyanwang to kyōryoku na shinki ni kakawaru ōkina tatakai ni makikomare."
+                    }
                 },
-                {
-                    "no": 2,
-                    "air_date": "1995-12-18",
-                    "duration_min": 45,
-                    "translations": {
-                        "en": {
-                            "title": "The Key",
-                            "synopsis": "The search for a ‘key’ and a decisive ritual pits allies and enemies against each other."
+                "episodes": [
+                    {
+                        "no": 5,
+                        "air_date": "1995-07-25",
+                        "translations": {
+                            "en": {
+                                "title": "Descent",
+                                "synopsis": "Yakumo finally finds Pai without memories and gets caught in a dangerous conspiracy."
+                            },
+                            "es": {
+                                "title": "Descendencia",
+                                "synopsis": "Yakumo finalmente encuentra a Pai sin recuerdos y queda atrapado en una peligrosa conspiración."
+                            },
+                            "ca": {
+                                "title": "Descendència",
+                                "synopsis": "En Yakumo finalment troba la Pai sense records i queda atrapat en una perillosa conspiració."
+                            },
+                            "ja_kanji": {
+                                "title": "末裔の章",
+                                "synopsis": "八雲は記憶を失ったパイをついに見つけ、危険な陰謀に巻き込まれる。"
+                            },
+                            "ja_romaji": {
+                                "title": "Matsuei no shō",
+                                "synopsis": "Yakumo wa kioku o ushinatta Pai o tsuini mitsuke, kiken na inbō ni makikomare."
+                            }
                         },
-                        "es": {
-                            "title": "La Llave",
-                            "synopsis": "La búsqueda de una ‘llave’ y un ritual determinante enfrenta a aliados y enemigos por igual."
-                        },
-                        "ca": {
-                            "title": "La Clau",
-                            "synopsis": "La recerca d'una ‘clau’ i un ritual determinant enfronta aliats i enemics per igual."
-                        },
-                        "ja_kanji": {
-                            "title": "鍵の章",
-                            "synopsis": "「鍵」と決定的な儀式をめぐる探索が、味方と敵を対立させる。"
-                        },
-                        "ja_romaji": {
-                            "title": "Kagi no shō",
-                            "synopsis": "‘Kagi’ to ketteiteki na gishiki o meguru tansaku ga, mikata to teki o tairitsu saseru."
-                        }
+                        "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#Legend_of_the_Divine_Demon"
                     },
-                    "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#Legend_of_the_Divine_Demon"
-                },
-                {
-                    "no": 3,
-                    "air_date": "1996-06-25",
-                    "duration_min": 50,
-                    "translations": {
-                        "en": {
-                            "title": "The Return",
-                            "synopsis": "Final battle and an attempt to restore what was lost."
+                    {
+                        "no": 6,
+                        "air_date": "1995-12-18",
+                        "translations": {
+                            "en": {
+                                "title": "The Key",
+                                "synopsis": "The search for a ‘key’ and a decisive ritual pits allies and enemies against each other."
+                            },
+                            "es": {
+                                "title": "La Llave",
+                                "synopsis": "La búsqueda de una ‘llave’ y un ritual determinante enfrenta a aliados y enemigos por igual."
+                            },
+                            "ca": {
+                                "title": "La Clau",
+                                "synopsis": "La recerca d'una ‘clau’ i un ritual determinant enfronta aliats i enemics per igual."
+                            },
+                            "ja_kanji": {
+                                "title": "鍵の章",
+                                "synopsis": "「鍵」と決定的な儀式をめぐる探索が、味方と敵を対立させる。"
+                            },
+                            "ja_romaji": {
+                                "title": "Kagi no shō",
+                                "synopsis": "‘Kagi’ to ketteiteki na gishiki o meguru tansaku ga, mikata to teki o tairitsu saseru."
+                            }
                         },
-                        "es": {
-                            "title": "El Regreso",
-                            "synopsis": "Batalla final e intento por restaurar lo perdido."
-                        },
-                        "ca": {
-                            "title": "El Retorn",
-                            "synopsis": "Batalla final i intent per restaurar el que s'ha perdut."
-                        },
-                        "ja_kanji": {
-                            "title": "帰還の章",
-                            "synopsis": "最終決戦と失われたものを取り戻そうとする試み。"
-                        },
-                        "ja_romaji": {
-                            "title": "Kikan no shō",
-                            "synopsis": "Saishū kessen to ushinawareta mono o torimodosō to suru kokoromi."
-                        }
+                        "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#Legend_of_the_Divine_Demon"
                     },
-                    "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#Legend_of_the_Divine_Demon"
-                }
-            ]
-        }
-    ]
-}
+                    {
+                        "no": 7,
+                        "air_date": "1996-06-25",
+                        "translations": {
+                            "en": {
+                                "title": "The Return",
+                                "synopsis": "Final battle and an attempt to restore what was lost."
+                            },
+                            "es": {
+                                "title": "El Regreso",
+                                "synopsis": "Batalla final e intento por restaurar lo perdido."
+                            },
+                            "ca": {
+                                "title": "El Retorn",
+                                "synopsis": "Batalla final i intent per restaurar el que s'ha perdut."
+                            },
+                            "ja_kanji": {
+                                "title": "帰還の章",
+                                "synopsis": "最終決戦と失われたものを取り戻そうとする試み。"
+                            },
+                            "ja_romaji": {
+                                "title": "Kikan no shō",
+                                "synopsis": "Saishū kessen to ushinawareta mono o torimodosō to suru kokoromi."
+                            }
+                        },
+                        "url": "https://en.wikipedia.org/wiki/3%C3%973_Eyes#Legend_of_the_Divine_Demon"
+                    }
+                ]
+            }
+        ]
+    }
+]
